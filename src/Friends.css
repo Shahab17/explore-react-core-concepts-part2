@@ -1,0 +1,13 @@
+.box{
+    border: 2px solid purple;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+.box1{
+    border: 2px solid rgb(109, 107, 31);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 12px;
+}
